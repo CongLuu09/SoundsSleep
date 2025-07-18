@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/backgr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:id="@+id/tvCreditTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Credits"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="12dp" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/backgr"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:id="@+id/creditListContainer"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="?android:dividerVertical"
+            android:showDividers="middle"
+            android:dividerPadding="8dp" />
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:backgroundTint="#0D1B3E"
+        android:layout_marginTop="16dp"
+        android:paddingVertical="12dp" />
+
+</LinearLayout>

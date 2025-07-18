@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#64B5F6</color>
+    <color name="gray">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="colorGrey" />
+    <color name="WhiteSmoke">#EEEEEE</color>
+    <color name="PaleVioletRed1">#FF82AB</color>
+
+    <color name="mixerBase">#F1DAB9</color>
+    <color name="panelHighlight">#EDD3A5</color>
+    <color name="borderTone">#BCA38A</color>
+    <color name="textDark">#7B6D6A</color>
+    <color name="buttonBlueGray">#A0B3C5</color>
+    <color name="bgSoftGradient">#E7E5E1</color>
+
+    <color name="onboarding_background_purple_blue">#6C63FF</color>
+
+</resources>

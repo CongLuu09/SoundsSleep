@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/onboarding_fragment_4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_sleep_sounds"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <ImageView
+            android:id="@+id/onboarding_image"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/logokt"
+            android:background="@drawable/rounded_image"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/onboarding_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Được phát triển bởi Kênh Táo"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/WhiteSmoke"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/onboarding_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ứng dụng thuộc sở hữu của Kênh Táo, hướng đến trải nghiệm thư giãn tốt nhất cho bạn."
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textColor="@color/WhiteSmoke"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginBottom="32dp" />
+
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bắt đầu"
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@android:color/white"
+            android:textAllCaps="false"
+            android:elevation="4dp"
+            android:paddingVertical="12dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp" />
+    </LinearLayout>
+</ScrollView>

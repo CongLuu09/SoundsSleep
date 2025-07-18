@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    tools:ignore="MissingPrefix">
+    <item
+        android:id="@+id/nav_sound"
+        android:icon="@drawable/sound"
+        android:title="Âm thanh" />
+    <item
+        android:id="@+id/nav_custom"
+        android:icon="@drawable/custom"
+        android:title="Tùy chỉnh" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="profile" />
+</menu>

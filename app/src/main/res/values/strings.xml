@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name" translatable="false">Sounds Sleep</string>
+    <string name="sound_icon" translatable="false">Sound Icon</string>
+
+    <string name="subscription_notice" translatable="false">
+    Các biến động về tiền tệ, phí ngân hàng hoặc phí tiện lợi và thuế áp dụng do người bán và nhà cung cấp dịch vụ di động của bạn tính phí có thể làm tăng số tiền cuối cùng của bạn.
+    &lt;u&gt;Hãy xem các điều khoản và điều kiện của nhà cung cấp dịch vụ của bạn.&lt;/u&gt;
+
+    Bằng việc nhấn vào &quot;Đăng ký&quot;, bạn đồng ý rằng gói thuê bao của bạn sẽ tự động gia hạn cho đến khi bị hủy. Chúng tôi sẽ thông báo cho bạn khi có thay đổi về mức giá, theo như mô tả trong &lt;u&gt;Điều khoản dịch vụ của Google Play&lt;/u&gt;. &lt;u&gt;Tìm hiểu cách hủy&lt;/u&gt;.
+</string>
+
+    <string name="change_language" translatable="false">Change Language</string>
+    <string name="lang_en" translatable="false">English</string>
+    <string name="lang_vi" translatable="false">Tiếng Việt</string>
+
+    <string name="app_full_description">
+    🌙 Sleep Chills – A relaxing sound app to help you sleep better and restore daily balance.\n\n
+    Looking for an app to relax, reduce stress, or fall into deeper sleep faster?
+    Let SleepChills bring you peace with gentle, soothing nature sounds.\n\n
+
+    🎧 Key Features:\n
+    • 🌊 Rich sound library: Rain, ocean waves, deep forest, soft breeze, meditation music, piano sounds...\n
+    • 🔀 Freely mix sounds: Combine your favorites into a unique mix that suits your mood.\n
+    • ⏰ Sleep timer: Automatically stop playback to save battery.\n
+    • 🌙 Background and lock screen mode: Keep music playing even when your screen is off.\n
+    • 📥 Offline listening: No internet needed for downloaded sounds.\n
+    • 💾 Save and replay your favorite mixes.\n\n
+
+    🧘 Perfect for:\n
+    • People with insomnia or sleep difficulties\n
+    • Those under work stress seeking relaxation\n
+    • Yoga, meditation, or mindfulness practitioners\n
+    • Kids needing soothing sounds to sleep\n
+    • Students needing quiet focus environments\n\n
+
+    🔐 Our Promise:\n
+    • No registration required\n
+    • No annoying ads\n
+    • No personal data collection\n\n
+
+    Download SleepChills today and enjoy deep, calm, and restful sleep every night.
+</string>
+
+    <string name="app_share_link" translatable="false">https://play.google.com/store/apps/details?id=com.example.sleepchills</string>
+
+
+    <string name="google_play_dev_market" translatable="false">market://dev?id=8569549389947187841</string>
+    <string name="google_play_dev_http" translatable="false">https://play.google.com/store/apps/dev?id=8569549389947187841</string>
+
+
+    <string name="onboarding_title_1" translatable="false">Chào mừng đến với thế giới của sự thư giãn</string>
+    <string name="onboarding_desc_1" translatable="false">Sleep Sounds mang đến không gian âm thanh nhẹ nhàng và dịu êm, giúp bạn gạt bỏ lo âu, xua tan mệt mỏi và dễ dàng đi vào giấc ngủ sâu hơn mỗi đêm.</string>
+
+    <string name="onboarding_cty1" translatable="false">Kênh Táo</string>
+    <string name="onboarding_title1" translatable="false">Chuyên gia phát triển ứng dụng ios hàng đầu, mang đến giải pháp di động chất lượng cao cho doanh nghiệp. </string>
+
+    <string name="onboarding_slide3_title" translatable="false">Kết hợp âm thanh theo phong cách của bạn</string>
+    <string name="onboarding_slide3_description" translatable="false">
+    Khám phá khả năng kết hợp nhiều âm thanh yêu thích như tiếng mưa, sóng biển, nhạc thiền,… để tạo ra không gian thư giãn lý tưởng.
+    Tuỳ chỉnh âm lượng từng lớp, lưu lại bản phối riêng và phát lại bất cứ khi nào bạn muốn.
+</string>
+
+    <string name="onboarding3_title" translatable="false">Lưu lại âm thanh yêu thích</string>
+    <string name="onboarding3_description" translatable="false">Đăng nhập để lưu lại những bản mix và mở khoá kho âm thanh cao cấp.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

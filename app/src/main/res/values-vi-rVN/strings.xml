@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">Change Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_vi">Tiếng Việt</string>
+
+
+    <string name="app_full_description">
+        🌙 Sleep Chills – Ứng dụng âm thanh thư giãn giúp bạn ngủ ngon và cân bằng tâm trí mỗi ngày.\n\n
+        Bạn đang tìm kiếm một ứng dụng giúp thư giãn, giải toả stress hoặc dễ dàng đi vào giấc ngủ sâu hơn?
+        Hãy để SleepChills mang đến cho bạn không gian bình yên qua những âm thanh thiên nhiên dịu nhẹ.\n\n
+
+        🎧 Tính năng nổi bật:\n
+        • 🌊 Thư viện âm thanh đa dạng: Tiếng mưa, sóng biển, rừng sâu, gió nhẹ, nhạc thiền, tiếng đàn piano...\n
+        • 🔀 Tự do mix âm thanh: Kết hợp nhiều âm thanh yêu thích để tạo bản nhạc riêng phù hợp tâm trạng.\n
+        • ⏰ Hẹn giờ tắt nhạc: Giúp bạn ngủ yên mà không lo hao pin.\n
+        • 🌙 Chế độ nền và màn hình khóa: Phát nhạc khi màn hình tắt.\n
+        • 📥 Nghe ngoại tuyến: Không cần mạng với các âm đã lưu.\n
+        • 💾 Lưu và phát lại bản mix yêu thích.\n\n
+
+        🧘 Phù hợp cho:\n
+        • Người khó ngủ, mất ngủ kéo dài\n
+        • Người làm việc áp lực, cần thư giãn\n
+        • Người tập yoga, thiền\n
+        • Trẻ em cần tiếng êm dịu để ngủ\n
+        • Sinh viên cần không gian yên tĩnh\n\n
+
+        🔐 Cam kết:\n
+        • Không yêu cầu đăng ký\n
+        • Không quảng cáo gây phiền\n
+        • Không thu thập dữ liệu cá nhân\n\n
+
+        Hãy tải SleepChills ngay hôm nay để trải nghiệm cảm giác ngủ ngon – nhẹ nhàng – thư thái mỗi ngày.
+    </string>
+</resources>
