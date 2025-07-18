@@ -15,7 +15,7 @@ import androidx.fragment.app.Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.kenhtao.site.soundssleep.ui.custom.CustomFragment;
 import com.kenhtao.site.soundssleep.ui.home.HomeFragment;
-import com.kenhtao.site.soundssleep.ui.setting.SettingsFragment;
+import com.kenhtao.site.soundssleep.ui.profile.ProfileFragment;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                     } else if (item.getItemId() == R.id.nav_custom) {
                         selectedFragment = new CustomFragment();
                     } else if (item.getItemId() == R.id.nav_profile) {
-                        selectedFragment = new SettingsFragment();
+                        selectedFragment = new ProfileFragment();
                     }
 
                     return loadFragment(selectedFragment);

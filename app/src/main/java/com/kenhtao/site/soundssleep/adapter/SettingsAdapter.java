@@ -34,7 +34,7 @@ public class SettingsAdapter extends RecyclerView.Adapter<SettingsAdapter.ViewHo
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(context).inflate(R.layout.item_setting, parent, false);
+        View view = LayoutInflater.from(context).inflate(R.layout.item_profile_setting, parent, false);
         return new ViewHolder(view);
     }
 

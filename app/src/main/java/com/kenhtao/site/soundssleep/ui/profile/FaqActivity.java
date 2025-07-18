@@ -1,4 +1,4 @@
-package com.kenhtao.site.soundssleep.ui.setting.SettingActivity;
+package com.kenhtao.site.soundssleep.ui.profile;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -7,11 +7,7 @@ import android.provider.Settings;
 import android.view.View;
 import android.widget.Button;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 import com.kenhtao.site.soundssleep.R;
 

@@ -21,10 +21,10 @@
             android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity
-            android:name=".ui.setting.SettingActivity.WebViewActivity"
+            android:name=".ui.profile.WebViewActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.setting.SettingActivity.FaqActivity"
+            android:name=".ui.profile.FaqActivity"
             android:exported="false" />
         <activity
             android:name=".ui.setting.SettingActivity.GoPremiumActivity"

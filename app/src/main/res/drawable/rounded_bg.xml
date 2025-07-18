@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#1A1F2A" /> <!-- Màu nền bạn có thể thay đổi theo theme -->
+
+    <corners android:radius="16dp" /> <!-- Độ cong góc -->
+
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" />
+
+</shape>
