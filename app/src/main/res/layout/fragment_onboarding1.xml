@@ -11,7 +11,7 @@
         android:id="@+id/image_onboarding_1"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:src="@drawable/logosleep"
+        android:src="@drawable/logomusic"
         android:layout_marginBottom="24dp"
         android:scaleType="centerCrop"
         android:background="@drawable/rounded_image"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Sounds Sleep</string>
+    <string name="app_name" translatable="false">Music Chills</string>
     <string name="sound_icon" translatable="false">Sound Icon</string>
 
     <string name="subscription_notice" translatable="false">

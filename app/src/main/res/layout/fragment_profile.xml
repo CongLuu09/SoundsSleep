@@ -110,7 +110,7 @@
             android:layout_marginTop="24dp"
             android:background="@drawable/rounded_bg"
             android:scaleType="fitXY"
-            android:src="@drawable/sleepsound" />
+            android:src="@drawable/sleepsound1" />
 
 
         <TextView
