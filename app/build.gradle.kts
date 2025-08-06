@@ -15,18 +15,12 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    signingConfigs {
-        create("release") {
-            storeFile = file("/Users/macminia5/Downloads/test_app/new_app")
-            storePassword = "CongLuu090503@#"
-            keyAlias = "musicapp"
-            keyPassword = "CongLuu090503@#"
-        }
-    }
+    // ❌ Không cần signingConfigs nếu không ký tự động
 
     buildTypes {
         getByName("release") {
-            signingConfig = signingConfigs.getByName("release")
+            // ❌ Không cấu hình signingConfig
+            // Nếu bạn muốn APK/AAB không được ký tự động
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
@@ -34,7 +28,6 @@ android {
             )
         }
     }
-
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
