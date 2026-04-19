@@ -45,7 +45,7 @@ UI: RecyclerView, Material Design
 Tools: Git, Android Studio
 
 📂 Project Structure
-app/src/main/java/com/yourpackage/
+app/src/main/java/com/kenhtao/site/soundssleep
 
 ├── ui/           # Activities, UI components
 ├── adapter/      # RecyclerView adapters
